@@ -57,7 +57,7 @@
     "rmdir-sync": "^1.0.1",
     "semver": "^7.3.5",
     "simple-solc": "^1.0.1",
-    "socket.io": "^4.4.1",
+    "socket.io": "^4.7.2",
     "solc": "^0.8.13",
     "sqlite3": "^5.1.7",
     "stomp-client": "^0.9.0",
